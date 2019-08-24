@@ -1,4 +1,6 @@
 # Memory Game Project
+Memory Game is a 2D game in the browser, which show you the cards in seconds and you have to memorize it, then the cards flip and you have to find the matched cards in a minimum number of steps to win.
+
 This is my application of Memory Game Project of FEND from Udacity.
 
 # Getting Started
